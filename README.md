@@ -20,7 +20,7 @@ I created this small Python script to fetch and display information about upcomi
 1. Clone the repository or download the script.
 
    ```bash
-   git clone https://github.com/yourusername/contest-fetcher.git
+   git clone https://github.com/X9Z0/contest-fetcher.git
    ```
 
 2. Navigate to the script's directory.
@@ -58,7 +58,7 @@ I created this small Python script to fetch and display information about upcomi
 6. Make the script executable.
 
    ```bash
-   chmod +x contest_fetcher.py
+   chmod +x main.py
    ```
 
 7. Optionally, add the script's directory to your system's `PATH` to make it executable from anywhere.
@@ -70,16 +70,16 @@ I created this small Python script to fetch and display information about upcomi
 8. Run the script.
 
    ```bash
-   ./contest_fetcher.py
+   ./main.py
    ```
 
 9. The script will fetch and display upcoming contest information from AtCoder and Codeforces.
 
 ## Dependencies
 
-- [requests](https://docs.python-requests.org/en/latest/)
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
-- [tabulate](https://pypi.org/project/tabulate/)
+- [requests]
+- [BeautifulSoup]
+- [tabulate]
 
 Install the dependencies using:
 
