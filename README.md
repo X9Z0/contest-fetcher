@@ -54,6 +54,12 @@ I created this small Python script to fetch and display information about upcomi
    ```bash
    pip install -r requirements.txt
    ```
+    or
+
+   ```bash
+   python install_dependencies.py
+   ```
+
 
 6. Make the script executable.
 
